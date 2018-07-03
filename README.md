@@ -15,6 +15,6 @@ Android useful resources that anybody can use
 
 
 
-<p align="left">
-<img src="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/android-power.png" width="200">
+<p align="left"><a href="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/get-infos-from-manifest.java" target="_blank">
+<img src="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/android-power.png" width="200"></a>
 </p>
