@@ -14,7 +14,7 @@ Android useful resources that anybody can use
 * <a href="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/get-infos-from-manifest.java" target="_blank">Get Infos from manifest</a>
 * <a href="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/scan-wireless-networks.java" target="_blank">Scan wireless networks</a>
 * <a href="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/reverse-byte-array.java" target="_blank">Reverse byte array</a>
-* <a href="https://github.com/georgioupanayiotis/AndroidSnippets/blob/master/activity_main_dialer.xml" target="_blank">Activity Main Dialer</a>
+
 
 
 
